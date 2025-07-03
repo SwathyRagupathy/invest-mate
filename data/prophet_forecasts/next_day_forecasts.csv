@@ -1,0 +1,4 @@
+predicted_date,predicted_value,target
+2025-07-01,6238.714541985512,Open_target
+2025-07-01,6247.123535609093,Close_target
+2025-07-01,-1.8274430512537758,Gap_target
